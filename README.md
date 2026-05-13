@@ -1,6 +1,6 @@
 # AgentCore Pi Extension
 
-Pi package for connecting one live Pi session to [CloudNova](https://cloudnova.kjulin.dev) as an external agent. Once installed, you can drive a Pi session from CloudNova Web (or any CloudNova client) and have Pi's assistant messages, tool calls, and run results mirror back into the CloudNova thread.
+Pi package for connecting one live Pi session to [CloudNova](https://usecloudnova.com) as an external agent. Once installed, you can drive a Pi session from CloudNova Web (or any CloudNova client) and have Pi's assistant messages, tool calls, and run results mirror back into the CloudNova thread.
 
 ## Install
 
